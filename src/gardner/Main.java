@@ -6,4 +6,10 @@ public class Main {
 	    System.out.println("Hello, my name is In a old Branch");
     }
     SammyHammy sambo = new SammyHammy();
+
+    public static void notifications(){
+        System.out.println("LOUD");
+    }
+
+
 }
