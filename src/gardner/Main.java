@@ -3,13 +3,6 @@ package gardner;
 public class Main {
 
     public static void main(String[] args) {
-	    System.out.println("Hello, my name is In a old Branch");
+	    System.out.println("Hello, my name is Bradley");
     }
-    SammyHammy sambo = new SammyHammy();
-
-    public static void notifications(){
-        System.out.println("LOUD");
-    }
-
-
 }
